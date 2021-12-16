@@ -1,0 +1,3 @@
+[submodule "LATEST/ref/Det"]
+	path = LATEST/ref/Det
+	url = git@github.com:NAAGRAAJ-HM/Det.git
