@@ -1,0 +1,3 @@
+[submodule "LATEST/MemIf"]
+	path = LATEST/MemIf
+	url = git@github.com:NAAGRAAJ-HM/MemIf.git
