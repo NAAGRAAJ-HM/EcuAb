@@ -1,9 +1,6 @@
 [submodule "LATEST/MemIf"]
 	path = LATEST/MemIf
 	url = git@github.com:NAAGRAAJ-HM/MemIf.git
-[submodule "LATEST/McAL"]
-	path = LATEST/McAL
-	url = git@github.com:NAAGRAAJ-HM/McAL.git
 [submodule "LATEST/WdgIf"]
 	path = LATEST/WdgIf
 	url = git@github.com:NAAGRAAJ-HM/WdgIf.git
