@@ -1,27 +1,27 @@
+[submodule "LATEST/CanIf"]
+	path = LATEST/CanIf
+	url = git@github.com:NAAGRAAJ-HM/CanIf.git
+[submodule "LATEST/CryIf"]
+	path = LATEST/CryIf
+	url = git@github.com:NAAGRAAJ-HM/CryIf.git
+[submodule "LATEST/Ea"]
+	path = LATEST/Ea
+	url = git@github.com:NAAGRAAJ-HM/Ea.git
+[submodule "LATEST/EthIf"]
+	path = LATEST/EthIf
+	url = git@github.com:NAAGRAAJ-HM/EthIf.git
+[submodule "LATEST/Fee"]
+	path = LATEST/Fee
+	url = git@github.com:NAAGRAAJ-HM/Fee.git
+[submodule "LATEST/FrIf"]
+	path = LATEST/FrIf
+	url = git@github.com:NAAGRAAJ-HM/FrIf.git
+[submodule "LATEST/LinIf"]
+	path = LATEST/LinIf
+	url = git@github.com:NAAGRAAJ-HM/LinIf.git
 [submodule "LATEST/MemIf"]
 	path = LATEST/MemIf
 	url = git@github.com:NAAGRAAJ-HM/MemIf.git
 [submodule "LATEST/WdgIf"]
 	path = LATEST/WdgIf
 	url = git@github.com:NAAGRAAJ-HM/WdgIf.git
-[submodule "LATEST/Ea"]
-	path = LATEST/Ea
-	url = git@github.com:NAAGRAAJ-HM/Ea.git
-[submodule "LATEST/Fee"]
-	path = LATEST/Fee
-	url = git@github.com:NAAGRAAJ-HM/Fee.git
-[submodule "LATEST/LinIf"]
-	path = LATEST/LinIf
-	url = git@github.com:NAAGRAAJ-HM/LinIf.git
-[submodule "LATEST/CanIf"]
-	path = LATEST/CanIf
-	url = git@github.com:NAAGRAAJ-HM/CanIf.git
-[submodule "LATEST/EthIf"]
-	path = LATEST/EthIf
-	url = git@github.com:NAAGRAAJ-HM/EthIf.git
-[submodule "LATEST/FrIf"]
-	path = LATEST/FrIf
-	url = git@github.com:NAAGRAAJ-HM/FrIf.git
-[submodule "LATEST/CryIf"]
-	path = LATEST/CryIf
-	url = git@github.com:NAAGRAAJ-HM/CryIf.git
