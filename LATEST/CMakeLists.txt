@@ -7,6 +7,7 @@ add_library(
    ./Fee/LATEST/Fee.cpp
    ./FrIf/LATEST/FrIf.cpp
    ./LinIf/LATEST/LinIf.cpp
+   ./LinTp/LATEST/LinTp.cpp
    ./MemIf/LATEST/MemIf.cpp
    ./WdgIf/LATEST/WdgIf.cpp
 )
@@ -21,6 +22,7 @@ include_directories(
    ./Fee/LATEST
    ./FrIf/LATEST
    ./LinIf/LATEST
+   ./LinTp/LATEST
    ./MemIf/LATEST
    ./WdgIf/LATEST
 )

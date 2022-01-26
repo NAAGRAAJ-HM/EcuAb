@@ -25,3 +25,6 @@
 [submodule "LATEST/WdgIf"]
 	path = LATEST/WdgIf
 	url = git@github.com:NAAGRAAJ-HM/WdgIf.git
+[submodule "LATEST/LinTp"]
+	path = LATEST/LinTp
+	url = git@github.com:NAAGRAAJ-HM/LinTp.git
