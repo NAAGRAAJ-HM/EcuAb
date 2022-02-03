@@ -15,15 +15,6 @@ add_library(
 include_directories(
    ../../common/LATEST
    ../../common/LATEST/Compiler_Abstraction_GNU/LATEST
-   ./CanIf/LATEST
-   ./CryIf/LATEST
-   ./Ea/LATEST
-   ./EthIf/LATEST
-   ./Fee/LATEST
-   ./FrIf/LATEST
-   ./LinIf/LATEST
-   ./LinTp/LATEST
-   ./MemIf/LATEST
-   ./WdgIf/LATEST
+   ../../AUTOSAR_Bsw/LATEST/Swc_EcuM/LATEST
 )
 
